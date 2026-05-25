@@ -12,7 +12,7 @@ hkipo/
 ├── README.md              # English project overview
 ├── README_cn.md           # Chinese project overview
 ├── hkipo_strategy.md      # Full strategy document (Chinese, primary)
-├── LICENSE                # GNU AGPL v3
+├── LICENSE                # CC BY-NC-SA 4.0
 ├── .gitignore
 └── .trae/
     ├── mcp.json.example   # MCP server configuration template
@@ -83,4 +83,4 @@ When fetching HK real-time market data, prefer market-data-fetcher (Longport) or
 
 ## License
 
-GNU Affero General Public License v3.0 (AGPL-3.0). Any derivative work must retain this license and provide source code access.
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). You are free to share and adapt this material under the terms of attribution, non-commercial use, and share-alike.

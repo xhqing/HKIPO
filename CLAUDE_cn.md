@@ -13,7 +13,7 @@ hkipo/
 ├── README.md              # 英文项目概览
 ├── README_cn.md           # 中文项目概览
 ├── hkipo_strategy.md      # 完整策略文档（中文，主要文档）
-├── LICENSE                # GNU AGPL v3 许可证
+├── LICENSE                # CC BY-NC-SA 4.0 许可证
 ├── .gitignore
 └── .trae/
     ├── mcp.json.example   # MCP服务器配置模板
@@ -84,4 +84,4 @@ hkipo/
 
 ## 许可证
 
-GNU Affero General Public License v3.0（AGPL-3.0）。任何衍生作品必须保留此许可证并提供源代码访问。
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International（CC BY-NC-SA 4.0）。您可以自由共享和改编本作品，但须遵守署名、非商业性使用和相同方式共享的条款。

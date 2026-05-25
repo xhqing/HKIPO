@@ -61,7 +61,7 @@
 ```
 hkipo/
 ├── hkipo_strategy.md    # 完整策略文档
-├── LICENSE              # GNU AGPL v3 许可证
+├── LICENSE              # CC BY-NC-SA 4.0 许可证
 └── README_cn.md         # 本文件
 ```
 
@@ -89,4 +89,4 @@ hkipo/
 
 ## 许可证
 
-本项目基于 [GNU Affero General Public License v3.0](LICENSE) 许可证开源。
+本项目基于 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](LICENSE) 许可证开源。
