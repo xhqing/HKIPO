@@ -61,7 +61,7 @@
 ```
 hkipo/
 ├── hkipo_strategy.md    # 完整策略文档
-├── LICENSE.md           # CC BY-NC-SA 4.0 许可证
+├── LICENSE.md           # CC BY 4.0 许可证
 ├── hkipo_knowledge.md   # 知识库文档
 ├── CLAUDE.md            # AI 助手指南
 ├── README.md            # 英文 README
@@ -92,4 +92,4 @@ hkipo/
 
 ## 许可证
 
-本项目基于 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](LICENSE.md) 许可证开源。
+本项目基于 [Creative Commons Attribution 4.0 International](LICENSE.md) 许可证开源。
