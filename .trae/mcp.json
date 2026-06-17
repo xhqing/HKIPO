@@ -1,19 +1,5 @@
 {
   "mcpServers": {
-    "market-data-fetcher": {
-      "command": "uvx",
-      "args": [
-        "--from",
-        "git+https://github.com/xhqing/market_data_fetcher.git",
-        "market-data-fetcher"
-      ],
-      "env": {
-        "LONGPORT_APP_KEY": "your_longport_app_key_here",
-        "LONGPORT_APP_SECRET": "your_longport_app_secret_here",
-        "LONGPORT_ACCESS_TOKEN": "your_longport_access_token_here",
-        "TARGETS_JSON_PATH": "/path/to/your/targets.json"
-      }
-    },
     "financekit": {
       "command": "uvx",
       "args": ["--from", "financekit-mcp", "financekit"]
@@ -41,10 +27,6 @@
     "发现报告": {
       "type": "http",
       "url": "http://mcp.fxbaogao.com/sse"
-    },
-    "tushareMcp": {
-      "type": "http",
-      "url": "https://api.tushare.pro/mcp/?token=your_tushare_token_here"
     }
   }
 }
