@@ -61,8 +61,11 @@ With one-lot rates at 1-2%, the most effective approach for small capital is **m
 ```
 hkipo/
 ├── hkipo_strategy.md    # Full strategy document (Chinese)
-├── LICENSE              # CC BY-NC-SA 4.0
-└── README.md            # This file
+├── LICENSE.md           # CC BY-NC-SA 4.0
+├── hkipo_knowledge.md   # Knowledge base document
+├── CLAUDE.md            # AI assistant guidelines
+├── README.md            # This file
+└── README_cn.md         # Chinese README
 ```
 
 ---
@@ -89,4 +92,4 @@ This project is for **educational and informational purposes only**. It does not
 
 ## License
 
-This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](LICENSE).
+This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](LICENSE.md).
