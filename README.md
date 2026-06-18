@@ -90,6 +90,27 @@ This project is for **educational and informational purposes only**. It does not
 
 ---
 
-## License
+## License & Attribution
 
-This project is licensed under the [Creative Commons Attribution 4.0 International](LICENSE.md).
+This project is licensed under the [Creative Commons Attribution 4.0 International](LICENSE.md) (CC BY 4.0).
+
+### Attribution Requirements
+
+When using, sharing, or adapting this project, you must provide proper attribution in any reasonable manner. The attribution must include:
+
+- **Author**: Huaqing Xu and Contributors
+- **Title**: HKIPO Strategy
+- **License**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- **Source**: https://github.com/xhqing/HKIPO/
+
+If you have modified the content, please indicate so. For example: "Based on HKIPO Strategy by Huaqing Xu and Contributors".
+
+**Recommended attribution format:**
+
+> "HKIPO Strategy" by Huaqing Xu and Contributors is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Source: https://github.com/xhqing/HKIPO/
+
+**Important notes:**
+
+- Attribution must not imply endorsement by the authors.
+- You may satisfy these requirements by linking to a page that includes the required information.
+- If requested by the licensor, you must remove attribution information to the extent reasonably practicable.

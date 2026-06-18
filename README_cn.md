@@ -90,6 +90,27 @@ hkipo/
 
 ---
 
-## 许可证
+## 许可证与署名
 
-本项目基于 [Creative Commons Attribution 4.0 International](LICENSE.md) 许可证开源。
+本项目基于 [Creative Commons Attribution 4.0 International](LICENSE.md)（CC BY 4.0）许可证开源。
+
+### 署名要求
+
+在使用、分享或改编本项目时，你必须在合理的方式下提供适当的署名。署名须包含以下信息：
+
+- **作者**：Huaqing Xu and Contributors
+- **作品名称**：HKIPO Strategy（港股打新策略）
+- **许可证**：[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- **来源**：https://github.com/xhqing/HKIPO/
+
+如果你对内容进行了修改，请注明。例如："基于 Huaqing Xu and Contributors 的 HKIPO Strategy 修改而成"。
+
+**推荐的署名格式：**
+
+> "HKIPO Strategy" by Huaqing Xu and Contributors is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Source: https://github.com/xhqing/HKIPO/
+
+**注意：**
+
+- 署名不得暗示作者为你或你的使用背书。
+- 可以通过提供包含所需信息的页面链接来满足署名要求。
+- 如果权利人要求移除署名，你应在合理范围内配合。
